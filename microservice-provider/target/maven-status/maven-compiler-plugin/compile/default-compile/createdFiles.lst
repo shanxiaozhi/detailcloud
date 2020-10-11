@@ -1,0 +1,6 @@
+com\yc\springcloud81\misprovider\service\BookService.class
+com\yc\springcloud81\misprovider\dao\MisBaseMapper.class
+com\yc\springcloud81\misprovider\service\BookServiceImpl.class
+com\yc\springcloud81\misprovider\MisProviderApplication.class
+com\yc\springcloud81\misprovider\control\BookController.class
+com\yc\springcloud81\misprovider\dao\BookMapper.class
